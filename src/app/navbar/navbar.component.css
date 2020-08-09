@@ -1,0 +1,8 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+span{
+    cursor: pointer;
+    font-size: 25px;
+    padding: 8px;
+}
